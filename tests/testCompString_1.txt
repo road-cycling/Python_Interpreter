@@ -1,0 +1,25 @@
+if "a" < "b":
+    print "correct"
+else:
+    print "error"
+
+
+if "asdfasdfasdfasdfasdf" < "as;dlfkajsd;fkasdfasdf":
+    print "correct"
+else:
+    print "else"
+
+if "aaaaa" == "aaaaa":
+    print "correct"
+else:
+    print "not correct"
+
+if "aaa" != "aba":
+    print "correct"
+else:
+    print "not correct"
+
+if "foo" == "bar":
+    print "wrong"
+else:
+    print "correct"

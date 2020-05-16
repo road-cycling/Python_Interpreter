@@ -1,0 +1,35 @@
+
+def recurse(val):
+	
+	if val < 100:
+		print val
+		recurse(val + 1)
+	else:
+		print "hit base case"
+
+recurse(1)
+
+Nathans-MacBook-Pro:pythonInterpreter0 Kamm$ ./statement.x inputExpressions.txt 
+Stmts  0x7fc3cd400640	2
+	FunctionDef: recurse 0x7fc3cd403960 ( val )
+		FunctionStatements: 0x7fc3cd402e40
+			IfStatement  0x7fc3cd403340	
+				IfStmt    0x7fc3cd403f50	
+					ComparisonExprNode 0x7fc3cd402fa0	Token: <
+						Variable       0x7fc3cd4034a0	Token: val
+						WholeNumber    0x7fc3cd402fd0	Token: 100
+					Stmts  0x7fc3cd4033f0	2
+						AST_PrintStatement 0x7fc3cd402e70
+							Variable       0x7fc3cd4032f0	Token: val
+						Function Wrapper: 0x7fc3cd403e30
+							FunctionCall: recurse 0x7fc3cd403df0
+								InfixExprNode  0x7fc3cd403c80	Token +
+									Variable       0x7fc3cd403c60	Token: val
+									WholeNumber    0x7fc3cd403d40	Token: 1
+				ElseStmt    0x7fc3cd403940	
+					Stmts  0x7fc3cd404090	1
+						AST_PrintStatement 0x7fc3cd403820
+							StringExp      0x7fc3cd404330	Token: hit base case
+	Function Wrapper: 0x7fc3cd4039c0
+		FunctionCall: recurse 0x7fc3cd404640
+			WholeNumber    0x7fc3cd404590	Token: 1

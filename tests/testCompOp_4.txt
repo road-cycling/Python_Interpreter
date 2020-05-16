@@ -1,0 +1,9 @@
+if 1 >= 2:
+    print "FAIL"
+else:
+    print "PASS"
+
+if 2 >= 2:
+    print "PASS"
+else:
+    print "FAIL"

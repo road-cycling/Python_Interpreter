@@ -1,0 +1,11 @@
+def nacci(arg1):
+
+
+ arr = [0, 1]
+ for i in range(2, arg1):
+ 	arr.append( arr[i - 1] + arr[i - 2] )
+
+
+ print arr 
+
+nacci(30)

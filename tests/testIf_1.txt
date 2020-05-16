@@ -1,0 +1,31 @@
+i = 100
+
+if i == 0:
+        print "I is 0"
+
+elif i == 1:
+    print "I is 1"
+
+elif i == 2:
+    print "I is 2"
+
+elif i == 3:
+    print "I is 3"
+
+elif i == 4:
+    print "I is 4"
+
+elif i == 5:
+    print "I is 5"
+
+elif i == 6:
+    print "I is 6"
+
+elif i == 7:
+    print "I is 7"
+
+elif i == 8:
+    print "I is 8"
+
+else:
+    print "I must be 9"

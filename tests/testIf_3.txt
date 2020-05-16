@@ -1,0 +1,6 @@
+i = 5
+if i == 0:
+    print "I is 0"
+
+else:
+    print "I is not 0"

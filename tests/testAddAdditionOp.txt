@@ -1,0 +1,8 @@
+foo = "foo"
+bar = "bar"
+print foo + bar
+
+this = "is a realllllllllllllllllllllly long string"
+and_this = "is an evennnnnnnn longerrrrrr stringggggggggggggggggggggggggggggggggg"
+print this + and_this
+

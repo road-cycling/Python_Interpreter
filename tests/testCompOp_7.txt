@@ -1,0 +1,4 @@
+if 4 <> 4:
+    print "YES"
+else:
+    print "NO"

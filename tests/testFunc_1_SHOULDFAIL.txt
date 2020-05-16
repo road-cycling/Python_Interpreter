@@ -1,0 +1,6 @@
+def foo(1):
+  return 1
+
+x = foo(1)
+print x
+

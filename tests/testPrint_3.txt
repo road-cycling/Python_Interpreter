@@ -1,0 +1,4 @@
+a = 0
+b = 0
+print "a =", a, "b =", b, "and the sum of the two is", a + b
+

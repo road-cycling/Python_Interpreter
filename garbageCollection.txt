@@ -1,0 +1,60 @@
+a =~StringDescriptor
+~TypeDescriptor
+ 5~NumberDescriptor
+~TypeDescriptor
+ b =~StringDescriptor
+~TypeDescriptor
+ 6~NumberDescriptor
+~TypeDescriptor
+ and the sum of the two is~StringDescriptor
+~TypeDescriptor
+ ~NumberDescriptor
+~TypeDescriptor
+~NumberDescriptor
+~TypeDescriptor
+11~NumberDescriptor
+~TypeDescriptor
+ 
+~NumberDescriptor
+~TypeDescriptor
+~NumberDescriptor
+~TypeDescriptor
+11~NumberDescriptor
+~TypeDescriptor
+ 
+~GroupedStatements()
+~Statements()
+~PrintStatement()
+InfixExprNode Destructor Called
+~Variable()
+~ExprNode()
+~Variable()
+~ExprNode()
+~ExprNode()
+~PrintStatement()
+InfixExprNode Destructor Called
+~Variable()
+~ExprNode()
+~Variable()
+~ExprNode()
+~ExprNode()
+~StringExp()
+~ExprNode()
+~Variable()
+~ExprNode()
+~StringExp()
+~ExprNode()
+~Variable()
+~ExprNode()
+~StringExp()
+~ExprNode()
+~AssignStmt()
+~WholeNumber
+~ExprNode()
+~AssignStmt()
+~WholeNumber
+~ExprNode()
+~NumberDescriptor
+~TypeDescriptor
+~NumberDescriptor
+~TypeDescriptor

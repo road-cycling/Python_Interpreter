@@ -1,0 +1,4 @@
+if 1 and 2 and 2 and 3 and 1 and 2 and 2 and 3 and 1 and 2 and 2 and 3 and 1 and 2 and 2 and 3 and 1 and 2 and 2 and 3 and 1 and 2 and 2 and 3 and 5 and 0:
+    print "YES"
+else:
+    print "NOPE"

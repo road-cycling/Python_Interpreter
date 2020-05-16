@@ -1,0 +1,6 @@
+start = 10
+step = 2
+end = 20
+
+for i in range(start, end, step):
+    print i 

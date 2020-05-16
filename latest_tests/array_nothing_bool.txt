@@ -1,0 +1,9 @@
+
+emptyArray = []
+
+emptyArray.append(true)
+emptyArray.append(true)
+emptyArray.append(false)
+emptyArray.append(false)
+
+print emptyArray

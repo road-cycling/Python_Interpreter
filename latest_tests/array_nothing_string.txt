@@ -1,0 +1,11 @@
+
+emptyArray = []
+
+emptyArray.append("a")
+emptyArray.append("b")
+emptyArray.append("c")
+emptyArray.append("d")
+
+print emptyArray
+
+#this doesn't work 

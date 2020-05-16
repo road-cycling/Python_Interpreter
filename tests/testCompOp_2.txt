@@ -1,0 +1,9 @@
+if 1 > 2:
+    print "ERROR"
+else:
+    print "OP WORKS"
+
+if 2 > 1:
+    print "OP WORKS"
+else:
+    print "ERROR"
