@@ -23,10 +23,6 @@ Requirements
             - We sent you an email about this early on in the grammar. Allowing this would allow return statements outside of functions 
                 breaking the rules of the parser
 
-
-    Nathan Kamm
-    Jorge Bautista 
-
 Work Done
     - Pair Programming 
 
